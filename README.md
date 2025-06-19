@@ -4,7 +4,7 @@ It is a **responsive landing page UI** for an ice cream-selling brand. Developed
 
 ---
 
-🔗 **Live Demo:** [https://zero-code-assignment.vercel.app/](https://zero-code-assignment.vercel.app/)  
+🔗 **Live Demo:** [https://code-x-novas-assignment.vercel.app/](https://code-x-novas-assignment.vercel.app/)  
 📁 **GitHub Repo:** [https://github.com/anubhav-0004/code-x-novas-assignment](https://github.com/anubhav-0004/code-x-novas-assignment)
 
 ---
@@ -31,30 +31,39 @@ It is a **responsive landing page UI** for an ice cream-selling brand. Developed
 
 ### 🔻 Landing Page Preview
 ![Landing Page 1](./public/Screenshot 1.png)
----
 ![Landing Page 2](./public/Screenshot 2.png)
----
 ![Landing Page 3](./public/Screenshot 3.png)
----
 ![Landing Page 4](./public/Screenshot 4.png)
 
 ---
 
 ## 📁 Folder Structure
 
-Code-X-Novas/
-├── public/ # Static assets
-├── node_modules/ # Project dependencies
-├── src/ # Main application code
-│ ├── assets/ # Images and media files
-│ ├── components/ # Reusable UI components (Navbar, Options, etc.)
-│ ├── pages/ # Page-level components (Strawberry.jsx, etc.)
-│ └── App.jsx # App entry point
-├── .gitignore # Git ignored files
-├── eslint.config.js # ESLint configuration
-├── vite.config.js # Vite project config
-├── index.html # HTML template
-├── README.md # Project documentation
+src/
+├── pages/
+│   ├── Strawberry.jsx        # Landing page for strawberry flavor
+│   ├── Blueberry.jsx         # Landing page for blueberry flavor
+│   ├── Chocolate.jsx         # Landing page for chocolate flavor
+│   ├── Evergreen.jsx         # Landing page for evergreen flavor
+│   └── NotFound.jsx          # 404 fallback page
+│
+├── components/
+│   ├── Navbar.jsx            # Top navigation bar
+│   ├── Options.jsx           # Flavor selector or features section
+│
+├── assets/
+│   ├── images/               # Ice cream images.
+│  
+│
+public/
+│   ├── Logo                  # Fevicon Logo
+│   └── screenshots/          # Screenshots for README or showcase
+│
+.gitignore                    # Files and folders to ignore by Git
+eslint.config.js             # ESLint configuration file
+vite.config.js               # Vite project configuration
+README.md                    # Project documentation
+
 
 ---
 
