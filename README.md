@@ -39,6 +39,7 @@ It is a **responsive landing page UI** for an ice cream-selling brand. Developed
 
 ## 📁 Folder Structure
 
+```bash
 src/
 ├── pages/
 │   ├── Strawberry.jsx        # Landing page for strawberry flavor
