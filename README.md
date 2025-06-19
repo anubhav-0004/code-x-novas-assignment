@@ -30,10 +30,10 @@ It is a **responsive landing page UI** for an ice cream-selling brand. Developed
 ## 📸 Screenshots
 
 ### 🔻 Landing Page Preview
-![Landing Page 1](./public/Screenshot 1.png)
-![Landing Page 2](./public/Screenshot 2.png)
-![Landing Page 3](./public/Screenshot 3.png)
-![Landing Page 4](./public/Screenshot 4.png)
+![Landing Page 1](./public/Screenshot1.png)
+![Landing Page 2](./public/Screenshot2.png)
+![Landing Page 3](./public/Screenshot3.png)
+![Landing Page 4](./public/Screenshot4.png)
 
 ---
 
