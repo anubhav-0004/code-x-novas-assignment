@@ -71,10 +71,15 @@ README.md                    # Project documentation
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/anubhav-0004/code-x-novas-assignment.git
+```
+
+```bash
 cd code-x-novas-assignment
 ```
+
 ```bash
 npm install
 ```
