@@ -14,7 +14,7 @@ const Options = () => {
           alt="ice-cream2"
           className=" h-[20vh] scale-80 absolute -top-[1.2rem] z-20"
         />
-        <span className="w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-md:left-[24px] scale-[140%]"></span>
+        <span className="w-[42%] max-xl:w-[35%] max-sm:w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-xl:left-[35px] max-md:left-[24px] scale-[140%]"></span>
       </Link>
 
       <Link to="/blueberry" className="h-[10vh] flex items-baseline justify-end overflow-hidden w-[80px] relative scale-150 max-md:scale-110">
@@ -23,7 +23,7 @@ const Options = () => {
           alt="ice-cream1"
           className=" h-[20vh] scale-80 absolute -top-[1.2rem] z-20"
         />
-        <span className="w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-md:left-[24px] scale-[140%]"></span>
+        <span className="w-[42%] max-xl:w-[35%] max-sm:w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-xl:left-[35px] max-md:left-[24px] scale-[140%]"></span>
       </Link>
 
       <Link to="/chocolate" className="h-[10vh] flex items-baseline justify-end overflow-hidden w-[80px] relative scale-150 max-md:scale-110">
@@ -32,7 +32,7 @@ const Options = () => {
           alt="ice-cream3"
           className=" h-[20vh] scale-80 absolute -top-[1.2rem] z-20"
         />
-        <span className="w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-md:left-[24px] scale-[140%]"></span>
+        <span className="w-[42%] max-xl:w-[35%] max-sm:w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-xl:left-[35px] max-md:left-[24px] scale-[140%]"></span>
       </Link>
 
       <Link to="/evergreen" className="h-[10vh] flex items-baseline justify-end overflow-hidden w-[80px] relative scale-150 max-md:scale-110">
@@ -41,7 +41,7 @@ const Options = () => {
           alt="ice-cream4"
           className=" h-[20vh] scale-80 absolute -top-[1.2rem] z-20"
         />
-        <span className="w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-md:left-[24px] scale-[140%]"></span>
+        <span className="w-[42%] max-xl:w-[35%] max-sm:w-[42%] h-[40%] rounded-lg border absolute border-t-0 z-10 bottom-1 left-[28px] max-xl:left-[35px] max-md:left-[24px] scale-[140%]"></span>
       </Link>
     </div>
   );
